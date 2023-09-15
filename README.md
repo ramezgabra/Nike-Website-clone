@@ -13,7 +13,7 @@ Welcome to the Nike Website Clone project! This dynamic web application is built
 
 ## Demo
 
-[Live Demo](https://app.netlify.com/sites/nike-website-clone-ramez/domain-management)
+[Live Demo](https://nike-website-clone-ramez.netlify.app/)
 
 ## Features
 
